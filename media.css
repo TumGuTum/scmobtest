@@ -1,0 +1,19 @@
+@media (max-width: 1130px){
+
+    .header-title{
+        font-size: 35px;
+        text-align: center;
+    }
+    .header{
+        border-radius: 0 0 20px 20px;
+    }
+    .nav-list{
+        display: none;
+    }
+    .nav__user{
+        display: none;
+    }
+    .mobile-nav-btn{
+        display: block;
+    }
+}
